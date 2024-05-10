@@ -1,6 +1,6 @@
 В папке 'pgdata' находятся скрипты.
 
-CREAT_DATABASE_academy.sql - скрипт создании БД.
+CREAT_DATABASE_academy.sql - скрипт создающий БД.
 
 public.sql - скрипт создающий таблицы.
 
